@@ -34,7 +34,7 @@ coinImg=loadAnimation("coinImages-converted/coinImg-unscreen/unscreen-001.png","
 //lifeImg_2=loadImage("images/statusBar-img2-removebg-preview.png")
 //lifeImg_3=loadImage("images/statusBar3.png")
 //lifeImg_0=loadImage("images/statusBar-img4-removebg-preview.png")
-//forestImg=loadImage("images/background-img.jpg")
+forestImg=loadImage("images/background-img.jpg")
 
 //bst=loadImage("images/head.png")
 //remove background
